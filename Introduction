@@ -1,0 +1,34 @@
+<table border="1" bgcolor="White" width="400" cellpadding="10">
+        <tr>
+                  <th></th>
+                  <th scope="col"bgcolor="blue">I</th>
+                  <th scope="col"bgcolor="blue">II</th>
+                  <th scope="col"bgcolor="blue">III</th>
+                  <th scope="col"bgcolor="blue">IV</th>
+                  <th scope="col"bgcolor="blue">V</th>
+                  <th scope="col"bgcolor="blue">VI</th>
+        <tr>
+        <tr>
+                  <th scope="row"bgcolor="Blue">Mon</th>
+        </tr>
+        <tr>
+                  <th scope="row"bgcolor="Blue">Tue</th>
+                  <th>web programing 1</th>
+                  <th>web programing 1</th>
+
+
+                  <th>Fundamentals of networking</th>
+                  <th>Fundamentals of networking</th>
+        </tr>
+        <tr>
+                  <th scope="row"bgcolor="Blue">Wed</th>
+        </tr>
+        <tr>
+                  <th scope="row"bgcolor="Blue">Thu</th>
+        </tr>
+        <tr>
+                  <th scope="row"bgcolor="Blue">Fri</th>
+        </tr>
+</table>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R0dwQOR1eY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
